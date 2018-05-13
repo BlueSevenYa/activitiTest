@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="activitidb2@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.0">
+    <root id="1"/>
+    <schema id="2" parent="1" name="activitidb2">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="account20160604"/>
+    <schema id="4" parent="1" name="bys"/>
+    <schema id="5" parent="1" name="db_database1"/>
+    <schema id="6" parent="1" name="db_employessleave"/>
+    <schema id="7" parent="1" name="fenyechaxun1"/>
+    <schema id="8" parent="1" name="grademanager"/>
+    <schema id="9" parent="1" name="hibernate_one2one_pk_2"/>
+    <schema id="10" parent="1" name="hotel0000"/>
+    <schema id="11" parent="1" name="information_schema"/>
+    <schema id="12" parent="1" name="jiudianguanli"/>
+    <schema id="13" parent="1" name="kad"/>
+    <schema id="14" parent="1" name="labspringmvc"/>
+    <schema id="15" parent="1" name="labspringmvc233"/>
+    <schema id="16" parent="1" name="labteam"/>
+    <schema id="17" parent="1" name="lianhexuesheng0000"/>
+    <schema id="18" parent="1" name="musicplatform"/>
+    <schema id="19" parent="1" name="mychuangxinyanshou"/>
+    <schema id="20" parent="1" name="mysql"/>
+    <schema id="21" parent="1" name="ordermeal"/>
+    <schema id="22" parent="1" name="performance_schema"/>
+    <schema id="23" parent="1" name="selectcoursedb"/>
+    <schema id="24" parent="1" name="springstudyds"/>
+    <schema id="25" parent="1" name="stud"/>
+    <schema id="26" parent="1" name="swh"/>
+    <schema id="27" parent="1" name="swh1"/>
+    <schema id="28" parent="1" name="sys"/>
+    <schema id="29" parent="1" name="t1"/>
+    <schema id="30" parent="1" name="test"/>
+    <schema id="31" parent="1" name="testhibernate1"/>
+    <schema id="32" parent="1" name="testhibernate2"/>
+    <schema id="33" parent="1" name="webshop"/>
+  </database-model>
+</dataSource>
